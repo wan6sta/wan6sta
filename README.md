@@ -3,7 +3,7 @@
 ## I'm Ftontend Developer
 
 ### Languages and Tools
-<div>
+<div style="margin-bottom: 20px">
 <img src="https://img.shields.io/badge/JavaScript-ff0066?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-ff0066?style=for-the-badge&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-ff0066?style=for-the-badge&logo=HTML5&logoColor=white"/>
