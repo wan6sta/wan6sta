@@ -25,5 +25,7 @@
 <img src="https://img.shields.io/badge/stylelint-ff0066?style=for-the-badge&logo=stylelint&logoColor=white"/>
 </div>
 
+#### Most Used Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wan6sta&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
