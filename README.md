@@ -3,6 +3,7 @@
 ## I'm Ftontend Developer
 
 ### Languages and Tools
+<div>
 <img src="https://img.shields.io/badge/JavaScript-ff0066?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-ff0066?style=for-the-badge&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-ff0066?style=for-the-badge&logo=HTML5&logoColor=white"/>
@@ -22,3 +23,4 @@
 <img src="https://img.shields.io/badge/React Table-ff0066?style=for-the-badge&logo=React Table&logoColor=white"/>
 <img src="https://img.shields.io/badge/i18next-ff0066?style=for-the-badge&logo=i18next&logoColor=white"/>
 <img src="https://img.shields.io/badge/stylelint-ff0066?style=for-the-badge&logo=stylelint&logoColor=white"/>
+</div>
