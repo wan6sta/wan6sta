@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/React-ff0066?style=for-the-badge&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-ff0066?style=for-the-badge&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Router-ff0066?style=for-the-badge&logo=React Router&logoColor=white"/>
-<img src="https://img.shields.io/badge/React Hook Form-ff0066?style=for-the-badge&logo=React Hook Form&logoColor=white"/>
 <img src="https://img.shields.io/badge/Webpack-ff0066?style=for-the-badge&logo=Webpack&logoColor=white"/>
 <img src="https://img.shields.io/badge/ESLint-ff0066?style=for-the-badge&logo=ESLint&logoColor=white"/>
 <img src="https://img.shields.io/badge/Testing Library-ff0066?style=for-the-badge&logo=Testing Library&logoColor=white"/>
