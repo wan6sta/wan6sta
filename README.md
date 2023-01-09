@@ -25,5 +25,5 @@
 <img src="https://img.shields.io/badge/stylelint-ff0066?style=for-the-badge&logo=stylelint&logoColor=white"/>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wan6sta&show_icons=true&theme=radical&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wan6sta&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
